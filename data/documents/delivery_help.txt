@@ -1,0 +1,3 @@
+Customers can change their delivery address before an order is dispatched. 
+After dispatch, the address may no longer be editable, and customers should contact support for assistance. 
+Customers should provide their order ID when requesting an address change.

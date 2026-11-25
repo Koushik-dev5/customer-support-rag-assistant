@@ -1,0 +1,3 @@
+If a customer is charged twice for the same order, they should contact customer support with their order ID and payment reference. 
+The support team must verify both transactions before initiating a refund. 
+Refund processing time depends on the payment provider.

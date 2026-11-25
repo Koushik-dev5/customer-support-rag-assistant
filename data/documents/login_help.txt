@@ -1,0 +1,3 @@
+Customers who cannot log in should first check their email address and password. 
+If they forget their password, they can use the Forgot Password option to receive a password reset link by email. 
+If the reset email does not arrive, they should check their spam folder.
